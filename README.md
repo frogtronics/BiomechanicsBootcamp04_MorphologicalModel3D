@@ -14,4 +14,4 @@ Two ways to download the material:
 -Click on the desired file
 -Click on View Raw and follow browser's instructions for download
 
-Tutorial 3: Trigonometry B (building a 2D morphological model)
+
